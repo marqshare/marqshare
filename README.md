@@ -9,9 +9,26 @@ I will be keeping this updated with project progress and completions,
 adding any skills that I may acquire along the way.
 Thank you and please feel free to browse my work
 -->
-
-<p align="center">
-| Current Project(s) | Completed Project(s) | New Skill(s)   | Refined Skill(s) |
-|:------------------:|:--------------------:|:--------------:|:----------------:|
-| [Insert Here]      | [Insert Here]        | [Insert Here]  | [Insert Here]    |
-</p>
+<!--
+Apparently tables in Markdown do not convert while within <p></p>. Noted.
+SO, I make a table in HTML. Easy, right?!!!
+-->
+<table align="center">
+  <thead>
+    <tr>
+      <th>Current Project(s)</th>
+      <th>Completed Project(s)</th>
+      <th>New Skill(s)</th>
+      <th>Refined Skill(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[Insert Here]</td>
+      <td>[Insert Here]</td>
+      <td>[Insert Here]</td>
+      <td>[Insert Here]</td>
+    </tr>
+  </tbody>
+</table>
+<!-- EASY! 👍-->
